@@ -1,2 +1,2 @@
 # freeCodeCampProjects
-Projects made from learning freeCodeCamp tutorials
+A series of projects I've made learning different types of code from freeCodeCamp.org
